@@ -22,11 +22,11 @@ I add checking mechanism in case the user try to add something like "sword123" t
 
 
 **So, the program works like:**
-1 - User can check the inventory. If the inventory is empty the program returns and error message
-2 - User can add items to the inventory, user can type item name like "sword of fire", the program will transform the input in uppercase. If the user type something like "sword123" the program returns a error message
-3 - User can remove the last item of the inventory. If the inventory is empty the program returns and error message
-4 - User can search for an item in the inventory, if user type "SWORD OF FIRE" and this item is on the inventory the program will return a success message, if not will return a error message.
-5 - User can close the program.
+1. User can check the inventory. If the inventory is empty the program returns and error message
+2. User can add items to the inventory, user can type item name like "sword of fire", the program will transform the input in uppercase. If the user type something like "sword123" the program returns a error message
+3. User can remove the last item of the inventory. If the inventory is empty the program returns and error message
+4. User can search for an item in the inventory, if user type "SWORD OF FIRE" and this item is on the inventory the program will return a success message, if not will return a error message.
+5. User can close the program.
 
 ## Techs
 
